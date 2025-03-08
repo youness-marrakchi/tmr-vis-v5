@@ -19,9 +19,9 @@ Deep Learning Models: Supports state-of-the-art PyTorch models for image classif
 
 ## Key Dependencies
 
-* torch, torchvision: For building and training deep learning models.
+* tensorflow, tensorflow_addons.
 
-* albumentations: For image augmentation.
+* Monai
 
 * kagglehub: For downloading the Kaggle dataset.
 
